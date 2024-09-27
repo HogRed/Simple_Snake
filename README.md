@@ -1,4 +1,4 @@
-## Introduction
+## Introduction 🎉🐍
 
 This project is a simple implementation of the classic Snake game using Python and Pygame. The objective is to navigate the snake to eat food, which increases your score and the length of the snake. Be careful not to collide with the walls or the snake's own body, or the game will end.
 
